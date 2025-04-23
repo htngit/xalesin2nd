@@ -16,7 +16,7 @@ export default async function Navbar() {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <Link href="/" prefetch className="flex items-center gap-2">
           <Layers className="h-6 w-6 text-blue-600" />
-          <span className="text-xl font-bold">Multi-Tenant CRM</span>
+          <span className="text-xl font-bold">XalesIn CRM</span>
         </Link>
         <div className="hidden md:flex gap-8 items-center">
           <Link
